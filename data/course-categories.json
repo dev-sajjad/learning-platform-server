@@ -1,11 +1,11 @@
 [
   { "course_id": "c01", "name": "Web Development" },
   { "course_id": "c02", "name": "Web Designing" },
-  { "course_id": "c03", "name": "Mobile App Development" },
+  { "course_id": "c03", "name": "Software Engineer" },
   { "course_id": "c04", "name": "Search Engine Optimization" },
-  { "course_id": "c05", "name": "Graphic Designing" },
-  { "course_id": "c06", "name": "Content Writing" },
+  { "course_id": "c05", "name": "Mobile App Development " },
+  { "course_id": "c06", "name": "Graphic Designing " },
   { "course_id": "c07", "name": "Freelancing" },
   { "course_id": "c08", "name": "Digital Marketing" },
-  { "course_id": "c09", "name": "Software Engineer" }
+  { "course_id": "c09", "name": "Content Writing " }
 ]
