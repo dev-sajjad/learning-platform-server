@@ -52,7 +52,7 @@
   },
   {
     "id": "COURSE04",
-    "instructor": { "name": "Kamran Hess", "picture": "https://i.ibb.co/BwkFj97/kamran-hess.pn" },
+    "instructor": { "name": "Kamran Hess", "picture": "https://i.ibb.co/BwkFj97/kamran-hess.png" },
     "course_id": "c04",
     "course_name": "Search Engine Optimization",
     "duration": "18 hrs 36 mins",
