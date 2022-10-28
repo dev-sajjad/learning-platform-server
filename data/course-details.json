@@ -1,6 +1,6 @@
 [
   {
-    "id": "course01",
+    "id": "COURSE01",
     "instructor": { "name": "Devid Roy", "picture": "https://i.ibb.co/DQRzm93/devid-roy.png" },
     "course_id": "c01",
     "course_name": "Web Development",
@@ -17,7 +17,7 @@
 
   },
   {
-    "id": "course02",
+    "id": "COURSE02",
     "instructor": { "name": "Golayee", "picture": "https://i.ibb.co/StFgpZ3/golayee.png" },
     "course_id": "c02",
     "course_name": "Web Designing",
@@ -34,7 +34,7 @@
 
   },
   {
-    "id": "course03",
+    "id": "COURSE03",
     "instructor": { "name": "Kanye Roy", "picture": "https://i.ibb.co/YkvKzqf/kanye.png" },
     "course_id": "c03",
     "course_name": "Software Engineer",
@@ -51,7 +51,7 @@
 
   },
   {
-    "id": "course04",
+    "id": "COURSE04",
     "instructor": { "name": "Kamran Hess", "picture": "https://i.ibb.co/BwkFj97/kamran-hess.png" },
     "course_id": "c04",
     "course_name": "Search Engine Optimization",
@@ -68,7 +68,7 @@
 
   },
   {
-    "id": "course05",
+    "id": "COURSE05",
     "instructor": { "name": "John Smith", "picture": "https://i.ibb.co/7g94Fzv/john-smith.png" },
     "course_id": "c05",
     "course_name": "Mobile App Development",
@@ -85,7 +85,7 @@
 
   },
   {
-    "id": "course06",
+    "id": "COURSE06",
     "instructor": { "name": "Jasminne", "picture": "https://i.ibb.co/nQYHF3b/jasminne.png" },
     "course_id": "c06",
     "course_name": "Graphic Design",
@@ -102,7 +102,7 @@
 
   },
   {
-    "id": "course07",
+    "id": "COURSE07",
     "instructor": { "name": "Devid Roy", "picture": "https://i.ibb.co/DQRzm93/devid-roy.png" },
     "course_id": "c07",
     "course_name": "Freelancing",
@@ -119,7 +119,7 @@
 
   },
   {
-    "id": "course08",
+    "id": "COURSE08",
     "instructor": { "name": "Sajjad Hussain", "picture": "https://i.ibb.co/T1gwLBg/sajjad-hussain.png" },
     "course_id": "c08",
     "course_name": "Digital Marketing",
@@ -136,7 +136,7 @@
 
   },
   {
-    "id": "course09",
+    "id": "COURSE09",
     "instructor": { "name": "Shrya Roy", "picture": "https://i.ibb.co/hC1B58r/shrya.png" },
     "course_id": "c09",
     "course_name": "Content Writing",
